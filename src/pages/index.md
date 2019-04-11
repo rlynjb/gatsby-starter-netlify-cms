@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Dance Starz Cafe
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/bannergettyimage.jpg
+heading: formerly known as Bropards
+subheading: Ballroom Dancing♦Karaoke♦Rental Special Events♦Dining♦Serving Wine and Beer
 mainpitch:
   title: Why Kaldi
   description: >
